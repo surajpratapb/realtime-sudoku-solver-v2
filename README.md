@@ -10,5 +10,5 @@
 - Keras
 - Numpy
 
-#### Deno
+#### Demo
 ![demo](https://github.com/surajpratapb/realtime-sudoku-solver-v2/blob/master/demo.gif)
